@@ -32,8 +32,8 @@ return {
 The key of the above object denotes the position of the string in the guitar as follows:
 <pre>
 "e" is the 1st string
-"B" is the second string
-"G" is the third string
+"B" is the 2nd string
+"G" is the 3rd string
 "D" is the 4th string
 "A" is the 5th string 
 and "E" is the 6th string.
