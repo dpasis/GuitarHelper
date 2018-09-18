@@ -7,11 +7,9 @@ View the sketch.js file on how to display the chord of the guitar.
 Setting the guitar to display the chord is simple:
 
 On p5 setup() function:
-<code>
 <pre>
 let guitar = new Guitar(width, height);
 </pre>
-</code>
 
 On p5 draw() function:
 <code>
