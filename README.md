@@ -56,7 +56,9 @@ To set the tab to render:
  guitar.setTab( Tab_Number, String_Index );
 </pre>
 
-@TODO: Make the guitar render multiple tab point at a time.
+@TODO: 
+* Show multiple tab point at a time.
+* Render different chord point if there is a capo, since the position of the finger will be different.
 
 Demo:
 [Guitar Helper Demo](https://editor.p5js.org/full/Hy5YY-Cu7)
