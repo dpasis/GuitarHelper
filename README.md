@@ -12,15 +12,12 @@ let guitar = new Guitar(width, height);
 </pre>
 
 On p5 draw() function:
-<code>
 <pre>
 guitar.setChord('A valid guitar Chord');
 </pre>
-</code>
 
 If the chord is not found, all the strings turns red. If you want to add more chord, edit the guitar.js and modify the getChord() function's switch statement.
 
-<code>
 <pre>
 return {
   'e': { 'v': 0 },
@@ -31,7 +28,6 @@ return {
   'E': { 'v': null }
 };
 </pre>
-</code>
 
 The key of the above object denotes the position of the string in the guitar as follows:
 <pre>
